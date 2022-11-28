@@ -9,7 +9,7 @@
 <br>
 <img src = "https://github.com/Jangton/Cordova/blob/main/img/%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98.JPG" height="600" align="left">
 <br>
-<img src = "https://github.com/Jangton/Cordova/blob/main/img/%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98%20%ED%99%88.JPG" height="200" align="left">
+<img src = "https://github.com/Jangton/Cordova/blob/main/img/%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98%20%ED%99%88.JPG" height="200" align="left"><br>
 <br>
 
 ## Node.js 다운로드(cmd창에서 실행)
