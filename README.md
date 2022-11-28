@@ -12,20 +12,20 @@
 <img src = "https://github.com/Jangton/Cordova/blob/main/img/%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98%20%ED%99%88.JPG" height="200" align="left"><br>
 <br>
 
-## Node.js 다운로드(cmd창에서 실행)
+## Node.js 다운로드(cmd창에서 실행)<br>
 cmd 창에서 <br>
 node -v (node 버전 확인) <br>
 npm -v (npm 버전 확인) <br>
 npm update -g (npm 업데이트) <br>
 
-##phonegap 다운로드
+##phonegap 다운로드<br>
 npm install -g phonegap <br>
 npm install -g cordova <br>
 cordova -v <br>
 npm update -g phonegap <br>
 npm update -g cordova <br>
 
-## Andorid cordova 만들기
+## Andorid cordova 만들기<br>
 cmd창을 켜고 <br>
 mkdir \HybridProject <br>
 &nbsp; &nbsp; &nbsp; 프로젝트 파일 만들기 <br>
