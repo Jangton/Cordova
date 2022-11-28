@@ -3,12 +3,14 @@
 <img src = "https://github.com/Jangton/Cordova/blob/main/img/cordova%EB%A9%94%EC%9D%B8.JPG" height="600" align="left">
 <br>
 <img src = "https://github.com/Jangton/Cordova/blob/main/img/cordova%EB%AA%A8%EB%B0%94%EC%9D%BC%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.JPG" height="600" align="left">
+<br>
 
 ## 환경변수 설정를 설정해주었습니다.
 <br>
 <img src = "https://github.com/Jangton/Cordova/blob/main/img/%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98.JPG" height="600" align="left">
 <br>
 <img src = "https://github.com/Jangton/Cordova/blob/main/img/%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98%20%ED%99%88.JPG" height="200" align="left">
+<br>
 
 ## Node.js 다운로드(cmd창에서 실행)
 cmd 창에서 <br>
