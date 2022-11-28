@@ -28,16 +28,16 @@ npm update -g cordova <br>
 ## Andorid cordova 만들기<br>
 cmd창을 켜고 <br>
 mkdir \HybridProject <br>
-&nbsp; &nbsp; &nbsp; 프로젝트 파일 만들기 <br>
-cd \HybridProject <br>
+프로젝트 파일 만들기 <br>
+cd\HybridProject <br>
 cordova create test com.example.test testApp -d  <br>
-&nbsp; &nbsp; &nbsp; Cordova test 파일 만들기(test부분 수정해서 파일명 변경 가능) <br>
-cd test 
+Cordova test 파일 만들기(test부분 수정해서 파일명 변경 가능) <br>
+cd test <br>
 dir <br>
 dir platform <br>	
-&nbsp; &nbsp; &nbsp; 안되면 밑에 줄 해보고 하기 <br>
+안되면 밑에 줄 해보고 하기 <br>
 cordova platform add android <br>
-&nbsp; &nbsp; &nbsp; android 플랫폼 추가하기 <br>
+android 플랫폼 추가하기 <br>
 dir platform <br>
 <br>
 ## 안드로이드에서 실행 시(USB와 갤럭시 기종의 스마트폰 필요)<br>
