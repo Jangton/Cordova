@@ -44,9 +44,9 @@ dir platform <br>
 ### 1. 삼성 usb드라이버를 설치한다<br>
 ### 2. 갤럭시 스마트폰 설정에 들어가서 개발자 옵션을 들어간 뒤 usb디버깅을 온한다.<br>
 ### 3. usb를 스마트폰에 연결해 컴퓨터와 스마트폰을 디버깅한다.<br>
-### 4. cmd에 >cd\HybridProject -> cd/test를 입력 후 cordova run android을 입력해 준다.<br>
+### 4. cmd에 >cd\HybridProject -> cd\test를 입력 후 cordova run android을 입력해 준다.<br>
 ### 5. 실행이 완료된다.<br>
 <br>
-<image src = "https://github.com/Jangton/Cordova/blob/main/img/cmd%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%8B%A4%ED%96%891.JPG" height="600" align="left"><br>
+<image src = "https://github.com/Jangton/Cordova/blob/main/img/cmd%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%8B%A4%ED%96%891.JPG" height="400" align="left"><br>
   <br>
-<image src = "https://github.com/Jangton/Cordova/blob/main/img/cmd%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%8B%A4%ED%96%892.JPG" height="600" align="center"><br>
+<image src = "https://github.com/Jangton/Cordova/blob/main/img/cmd%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%8B%A4%ED%96%892.JPG" height="400" align="center"><br>
