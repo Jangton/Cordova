@@ -38,8 +38,8 @@ dir platform <br>
 &nbsp; &nbsp; &nbsp; 안되면 밑에 줄 해보고 하기 <br>
 cordova platform add android <br>
 &nbsp; &nbsp; &nbsp; android 플랫폼 추가하기 <br>
-dir platform <br> 
-
+dir platform <br>
+<br>
 ## 안드로이드에서 실행 시(USB와 갤럭시 기종의 스마트폰 필요)
 ### 1. 삼성 usb드라이버를 설치한다
 ### 2. 갤럭시 스마트폰 설정에 들어가서 개발자 옵션을 들어간 뒤 usb디버깅을 온한다.
