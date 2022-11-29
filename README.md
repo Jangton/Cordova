@@ -40,6 +40,13 @@ cordova platform add android <br>
 android 플랫폼 추가하기 <br>
 dir platform <br>
 <br>
+## build.gradle 코드 추가하기<br>
+## android studio에서 새로운 프로젝트 생성 후 Gradle Scripts에 build.gradle에 android compileSdk 밑에 코드 추가하기
+<br>
+## 에뮬레이터 실행 (아이폰 사용자 또는 usb가 없을 경우)<br>
+## 1. Android Studio에서 에뮬레이터를 실행<br>
+## 2. cmd에 test폴더로 들어가서 >cordova emulate android 입력 후 실행<br>
+<br>
 ## 안드로이드에서 실행 시(USB와 갤럭시 기종의 스마트폰 필요)<br>
 ### 1. 삼성 usb드라이버를 설치한다<br>
 ### 2. 갤럭시 스마트폰 설정에 들어가서 개발자 옵션을 들어간 뒤 usb디버깅을 온한다.<br>
